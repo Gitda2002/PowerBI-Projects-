@@ -64,12 +64,8 @@ Feel free to customize the Power BI reports to fit your specific needs. You can 
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contact
-
+kshomenas@gmail.com - EMAIL 
 For questions or further information, please contact SANKET KUMAR at sanketkumar2587@gmail.com
 
 ---
